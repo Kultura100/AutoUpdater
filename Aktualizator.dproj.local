@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.142,C:\Users\barte\OneDrive\Dokumenty\Embarcadero\Studio\Projects\Project8.dproj=C:\Users\barte\OneDrive\Dokumenty\Embarcadero\Studio\Projects\Project8.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.440,=C:\Users\barte\OneDrive\Dokumenty\Embarcadero\Studio\Projects\Unit18.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.894,=C:\Users\barte\OneDrive\Dokumenty\Embarcadero\Studio\Projects\Unit18.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.936,C:\Users\barte\OneDrive\Dokumenty\Embarcadero\Studio\Projects\LauncherUpdater.dproj=C:\Users\barte\OneDrive\Dokumenty\Embarcadero\Studio\Projects\Project8.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.471,C:\Users\barte\OneDrive\Dokumenty\Embarcadero\Studio\Projects\Aktualizator.dproj=C:\Users\barte\OneDrive\Dokumenty\Embarcadero\Studio\Projects\LauncherUpdater.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.559,=C:\Users\barte\OneDrive\Dokumenty\Embarcadero\Studio\Projects\Unit20.pas</Transaction>
+  </Transactions>
+</BorlandProject>
